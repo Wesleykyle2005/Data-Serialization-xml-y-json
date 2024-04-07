@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|c:\\users\\wesley\\desktop\\tarea serializaci\u00F3n y des\\employeeslibrary\\xmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:xmlserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\jsonserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:jsonserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\objectdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:objectdatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\idatarepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:idatarepositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\employeesuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:employeesuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\employeesuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:employeesuiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\xmlserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A8BB31-352D-4071-B570-526D3F6E642E}|EmployeesLibrary.csproj|solutionrelative:xmlserializerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "IDataRepository.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\IDataRepository.cs",
+              "RelativeToolTip": "IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:04:40.699Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataRepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\IDataRepositoryFactory.cs",
+              "RelativeDocumentMoniker": "IDataRepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\IDataRepositoryFactory.cs",
+              "RelativeToolTip": "IDataRepositoryFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:56:21.528Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\ObjectDataRepository.cs",
+              "RelativeDocumentMoniker": "ObjectDataRepository.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\ObjectDataRepository.cs",
+              "RelativeToolTip": "ObjectDataRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T23:57:44.354Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\JsonSerializer.cs",
+              "RelativeDocumentMoniker": "JsonSerializer.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\JsonSerializer.cs",
+              "RelativeToolTip": "JsonSerializer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:21:58.764Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonSerializerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\JsonSerializerFactory.cs",
+              "RelativeDocumentMoniker": "JsonSerializerFactory.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\JsonSerializerFactory.cs",
+              "RelativeToolTip": "JsonSerializerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:19:03.366Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\XmlSerializer.cs",
+              "RelativeDocumentMoniker": "XmlSerializer.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\XmlSerializer.cs",
+              "RelativeToolTip": "XmlSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:59:59.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "XmlSerializerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\XmlSerializerFactory.cs",
+              "RelativeDocumentMoniker": "XmlSerializerFactory.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\XmlSerializerFactory.cs",
+              "RelativeToolTip": "XmlSerializerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:00:26.813Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeesUIForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\EmployeesUIForm.cs",
+              "RelativeDocumentMoniker": "EmployeesUIForm.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\EmployeesUIForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EmployeesUIForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:28:31.98Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesUIForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\EmployeesUIForm.cs",
+              "RelativeDocumentMoniker": "EmployeesUIForm.cs",
+              "ToolTip": "C:\\Users\\Wesley\\Desktop\\Tarea serializaci\u00F3n y des\\EmployeesLibrary\\EmployeesUIForm.cs",
+              "RelativeToolTip": "EmployeesUIForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:15:28.189Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
